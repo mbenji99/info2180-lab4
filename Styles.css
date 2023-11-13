@@ -1,0 +1,33 @@
+/* Body and button styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Superheroes list styles */
+#superheroesList {
+    list-style: none;
+    padding: 0;
+}
+
+#superheroesList li {
+    margin: 5px 0;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* H1 heading style */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
